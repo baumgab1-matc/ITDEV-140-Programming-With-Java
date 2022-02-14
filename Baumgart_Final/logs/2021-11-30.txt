@@ -1,0 +1,152 @@
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Welcome to account setup! Type 'x' at any time to exit.
+
+A card number has been created for you.
+Your card number is: 4110722706785944
+
+A pin needs to be created. DO NOT FORGET YOUR PIN.
+Give a four digit pin: 
+
+Cancelled creating account!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Welcome to account setup! Type 'x' at any time to exit.
+
+A card number has been created for you.
+Your card number is: 4965075560426170
+
+A pin needs to be created. DO NOT FORGET YOUR PIN.
+Give a four digit pin: 
+
+Account Created!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN: 
+Invalid pin given! Remaining attempts 2
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN: 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Invalid deposit. Must be amount greater than zero.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+No funds available to transfer.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Closing accounts cannot be undo, are you sure?(y/n): 
+Account not closed
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter user: 
+Enter password: 
+
+Login successful!
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Application close at: 20:48:44.321673
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter user: 
+Enter password: 
+
+Login successful!
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Date of log (yyyy-MM-dd): 
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Date of log (yyyy-MM-dd): 
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Application close at: 20:49:45.691705

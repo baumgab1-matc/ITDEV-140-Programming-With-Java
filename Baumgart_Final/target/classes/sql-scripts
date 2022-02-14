@@ -1,0 +1,10 @@
+CREATE TABLE cards (
+    id integer NOT NULL AUTO_INCREMENT,
+    account_number varchar(255),
+    pin_hash varchar(255),
+    balance DECIMAL(19, 4) DEFAULT 0,
+    invalid_attempts int DEFAULT 0,
+    is_locked boolean DEFAULT 0,
+	PRIMARY KEY (id)
+);
+

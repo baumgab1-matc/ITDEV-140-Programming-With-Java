@@ -1,0 +1,1512 @@
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Welcome to account setup! Type 'x' at any time to exit.
+
+A card number has been created for you.
+Your card number is: 4196083807955283
+
+A pin needs to be created. DO NOT FORGET YOUR PIN.
+Give a four digit pin: 
+
+Cancelled creating account!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Welcome to account setup! Type 'x' at any time to exit.
+
+A card number has been created for you.
+Your card number is: 4432369834341371
+
+A pin needs to be created. DO NOT FORGET YOUR PIN.
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+Invalid PIN given!
+Give a four digit pin: 
+
+Account Created!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN: 
+Invalid pin given! Remaining attempts 2
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN: 
+Invalid pin given! Remaining attempts 1
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+No account found with given account number
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Unknown Bank Operation. Try again!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Unknown Bank Operation. Try again!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 1
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 1
+Enter PIN (type 'x' to stop): 
+No more attempts. Card has been locked, contact admin.
+Enter PIN (type 'x' to stop): 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+No account found with given account number
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+
+Unknown Bank Operation. Try again!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 1
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Cannot close account with money in it. Please withdraw first.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Invalid withdraw. Must be amount greater than zero.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Starting money transfers. Type 'x' at any time to exit.
+
+Account number to transfer funds to: 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Closing accounts cannot be undo, are you sure?(y/n): 
+Account not closed
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+No more attempts. Card has been locked, contact admin.
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Unknown Operation. Try again!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Cannot close account with money in it. Please withdraw first.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Invalid withdraw. Must be amount greater than zero.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Starting money transfers. Type 'x' at any time to exit.
+
+Account number to transfer funds to: 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Cannot close account with money in it. Please withdraw first.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Invalid withdraw. Must be amount greater than zero.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Starting money transfers. Type 'x' at any time to exit.
+
+Account number to transfer funds to: 
+How much would you like to transfer: 
+Transfer completed.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Unknown Operation. Try again!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Invalid withdraw. Must be amount greater than zero.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+No account found with given account number
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+No funds available to transfer.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Unknown Operation. Try again!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 1
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Do not have enough founds to withdraw.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 1
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+Invalid pin given! Remaining attempts 2
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Your card has been locked. Contact admin.
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Account balance: $2607.00
+
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Account balance: $2607.00
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+Previous balance: $2607.00
+
+New balance: $2704.00
+
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+Previous balance: $2704.00
+New balance: $2714.00
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to deposit: 
+Success!
+Previous balance: $7873.00
+New balance: $7883.00
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+Amount to withdraw: 
+Success!
+Previous balance: $7883.00
+New balance: $7873.00
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Starting money transfers. Type 'x' at any time to exit.
+
+Account number to transfer funds to: 
+How much would you like to transfer: 
+$100.00 will be transferred from your account to account 4742106827497512, are you sure?(y/n) 
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter card number: 
+Enter PIN (type 'x' to stop): 
+
+Login successful!
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+Starting money transfers. Type 'x' at any time to exit.
+
+Account number to transfer funds to: 
+How much would you like to transfer: 
+$100.00 will be transferred from your account to account 4921318478621174, are you sure?(y/n) 
+Transfer completed.
+
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Close account
+6. Log out
+> 
+
+You have successfully logged out!
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter user: 
+Enter password: 
+
+Login successful!
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Application close at: 20:51:27.918193
+
+1. Create an account
+2. Log into account
+3. Admin
+> 
+Enter user: 
+Enter password: 
+
+Login successful!
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Date of log (yyyy-MM-dd): 
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Enter account number: 
+Account has been unlocked.
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Enter account number: 
+Card is not locked.
+
+1. Unlock Account
+2. Read Logs
+3. Close Application
+4. Log out
+> 
+Application closed at: 20:53:06.513581
