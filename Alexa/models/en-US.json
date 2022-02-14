@@ -1,36 +1,466 @@
 {
-  "languageModel": {
-    "intents": [
-      {
-        "name": "AMAZON.CancelIntent",
-        "samples": []
-      },
-      {
-        "name": "AMAZON.HelpIntent",
-        "samples": []
-      },
-      {
-        "name": "AMAZON.StopIntent",
-        "samples": []
-      },
-      {
-        "name": "HelloWorldIntent",
-        "samples": [
-          "say hello",
-          "say hello world",
-          "hello",
-          "say hi",
-          "say hi world",
-          "hi",
-          "how are you"
-        ],
-        "slots": []
-      },
-      {
-        "name": "AMAZON.FallbackIntent",
-        "samples": []
-      }
-    ],
-    "invocationName": "hello world"
-  }
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "final project",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AddNameIntent",
+                    "slots": [
+                        {
+                            "name": "name",
+                            "type": "AMAZON.FirstName",
+                            "samples": [
+                                "it's {name}",
+                                "you can call me {name}",
+                                "call me {name}",
+                                "{name}",
+                                "my name is {name}",
+                                "my name's {name}",
+                                "I'm {name}"
+                            ],
+                            "multipleValues": {
+                                "enabled": true
+                            }
+                        }
+                    ],
+                    "samples": [
+                        "can you set my name to {name}",
+                        "can you add my name",
+                        "You can call me {name}",
+                        "My name is {name}",
+                        "I want to change my name",
+                        "change my name",
+                        "can I change my name",
+                        "change name",
+                        "add my name",
+                        "add a name",
+                        "register my name",
+                        "register a name",
+                        "register name",
+                        "I want to add a name",
+                        "add name"
+                    ]
+                },
+                {
+                    "name": "ForgetNameIntent",
+                    "slots": [],
+                    "samples": [
+                        "delete name",
+                        "can you forget my name",
+                        "forget my name",
+                        "forget name",
+                        "remove name",
+                        "remove my name"
+                    ]
+                },
+                {
+                    "name": "SetCalorieIntakeIntent",
+                    "slots": [
+                        {
+                            "name": "daily_calories",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "{daily_calories}",
+                                "{daily_calories} calories",
+                                "set it to {daily_calories} "
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "can you set my calories to {daily_calories}",
+                        "you can set my calories to {daily_calories}",
+                        "set calories to {daily_calories}",
+                        "set daily calories to {daily_calories}",
+                        "set my goal to {daily_calories}",
+                        "set my calories to {daily_calories}",
+                        "set calories",
+                        "set goal",
+                        "set my daily calories",
+                        "set daily calories"
+                    ]
+                },
+                {
+                    "name": "SayCalorieIntakeIntent",
+                    "slots": [],
+                    "samples": [
+                        "what is my caloire limit",
+                        "what was my goal",
+                        "what was calorie goal",
+                        "what was my goal again",
+                        "say daily caloires",
+                        "say calories",
+                        "my calorie limit",
+                        "how many calories is my limit",
+                        "whats my calories goal",
+                        "Whats my calorie intake"
+                    ]
+                },
+                {
+                    "name": "AddFoodIntent",
+                    "slots": [
+                        {
+                            "name": "food_item_name",
+                            "type": "AMAZON.Food",
+                            "samples": [
+                                "I had {food_item_name}",
+                                "I drank {food_item_name}",
+                                "I drank a {food_item_name}",
+                                "I ate a {food_item_name}",
+                                "I ate {food_item_name}",
+                                "It was a {food_item_name}",
+                                "I had a {food_item_name}"
+                            ],
+                            "multipleValues": {
+                                "enabled": true
+                            }
+                        },
+                        {
+                            "name": "food_item_calories",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "around {food_item_calories} calories",
+                                "around {food_item_calories}",
+                                "it was about {food_item_calories} calories",
+                                "it was {food_item_calories} calories",
+                                "{food_item_calories} calories",
+                                "about {food_item_calories} calories",
+                                "it was around {food_item_calories} calories",
+                                "about {food_item_calories}",
+                                "it was around {food_item_calories}",
+                                "{food_item_calories}",
+                                "it was {food_item_calories}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "add a {food_item_name}",
+                        "add {food_item_name}",
+                        "can I add food",
+                        "add some food",
+                        "I drank some {food_item_name}",
+                        "I eat some {food_item_name}",
+                        "I had some {food_item_name}",
+                        "I eat an {food_item_name}",
+                        "I drank a {food_item_name}",
+                        "I just had a {food_item_name}",
+                        "I just eat a {food_item_name}",
+                        "I had an {food_item_name}",
+                        "I had {food_item_name}",
+                        "I had a {food_item_name}",
+                        "I eat a {food_item_name}",
+                        "I eat {food_item_name}",
+                        "log food",
+                        "add food",
+                        "add a meal",
+                        "add meal"
+                    ]
+                },
+                {
+                    "name": "SayRemainingCaloriesIntent",
+                    "slots": [],
+                    "samples": [
+                        "calories left",
+                        "how many calories are left",
+                        "Whats my remaining calorire count",
+                        "how many calories do I have left"
+                    ]
+                },
+                {
+                    "name": "SayMealsIntent",
+                    "slots": [],
+                    "samples": [
+                        "can you list my meals so far",
+                        "list my meals so far",
+                        "list my meals",
+                        "can you tell me what I've had today",
+                        "What have I had today",
+                        "what have I eat",
+                        "can you list what I've eat",
+                        "list what I've eat",
+                        "can you tell me what I've eat today",
+                        "what have I eat so far",
+                        "what have I eat today"
+                    ]
+                },
+                {
+                    "name": "ForgetFoodIntent",
+                    "slots": [
+                        {
+                            "name": "meal_to_forget",
+                            "type": "AMAZON.Food",
+                            "samples": [
+                                "you can remove {meal_to_forget}",
+                                "remove {meal_to_forget}",
+                                "forget {meal_to_forget}",
+                                "you can forget {meal_to_forget}",
+                                "you can drop {meal_to_forget}",
+                                "{meal_to_forget}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "remove the {meal_to_forget}",
+                        "forget the {meal_to_forget}",
+                        "forget meal",
+                        "forget a meal",
+                        "drop a meal",
+                        "can you remove {meal_to_forget}",
+                        "remove {meal_to_forget}",
+                        "remove food",
+                        "can you forget {meal_to_forget}",
+                        "can you forget a meal"
+                    ]
+                }
+            ],
+            "types": []
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "AddNameIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "name",
+                            "type": "AMAZON.FirstName",
+                            "confirmationRequired": true,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "confirmation": "Confirm.Slot.1445781984785.571757108601",
+                                "elicitation": "Elicit.Slot.1445781984785.571757108601"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "ForgetNameIntent",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.500090560653"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "SetCalorieIntakeIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "daily_calories",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.972339895191.238311519313"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "AddFoodIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "food_item_name",
+                            "type": "AMAZON.Food",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.896534006785.354162351410"
+                            }
+                        },
+                        {
+                            "name": "food_item_calories",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.896534006785.887305011627"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "ForgetFoodIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "meal_to_forget",
+                            "type": "AMAZON.Food",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.359885780566.958999492377"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Elicit.Slot.1445781984785.571757108601",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "What's your name?"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "What should I call you?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.1445781984785.571757108601",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Your name is {name} , is that correct?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.500090560653",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Are you sure you want me to forget your name?"
+                    }
+                ]
+            },
+            {
+                "id": "Slot.Validation.244301724606.90834698463.1317100968781",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Sorry, I can only set daily intake for postive numbers."
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.972339895191.238311519313",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "What is your goal today?"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Okay what is your goal?"
+                    }
+                ]
+            },
+            {
+                "id": "Slot.Validation.203367449595.1199409582655.1089722022521",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Sorry, I can only accept postive numbers"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.896534006785.887305011627",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "How many calories was the {food_item_name}"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Okay, noted {food_item_name} , how many calories was it"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.896534006785.354162351410",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Tell me what you had"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Okay, what did you have to eat"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "What was the meal"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "What did you eat"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.359885780566.958999492377",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "No problem, what should i forget"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "what meal should i drop"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Okay, what meal would you like to drop"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.359885780566.958999492377",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "I'm going to drop {meal_to_forget} , correct?"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Alright, I'm going to remove {meal_to_forget} , is this correct?"
+                    }
+                ]
+            }
+        ]
+    }
 }
